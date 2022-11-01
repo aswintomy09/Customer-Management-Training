@@ -1,0 +1,11 @@
+p{
+    color: black;
+    font-size: 200%;
+}
+#button1{
+    display: grid;
+    margin: auto;
+}
+th{
+    background-color: rgb(170, 168, 168);
+}
